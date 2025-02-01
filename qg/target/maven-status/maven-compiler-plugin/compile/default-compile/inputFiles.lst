@@ -1,0 +1,16 @@
+C:\qg\qg\src\main\java\com\project\qg\config\SecurityConfig.java
+C:\qg\qg\src\main\java\com\project\qg\controller\AdminController.java
+C:\qg\qg\src\main\java\com\project\qg\controller\UserController.java
+C:\qg\qg\src\main\java\com\project\qg\dto\GroceryItemDTO.java
+C:\qg\qg\src\main\java\com\project\qg\dto\OrderDTO.java
+C:\qg\qg\src\main\java\com\project\qg\entity\GroceryItem.java
+C:\qg\qg\src\main\java\com\project\qg\entity\Order.java
+C:\qg\qg\src\main\java\com\project\qg\entity\OrderItem.java
+C:\qg\qg\src\main\java\com\project\qg\QgApplication.java
+C:\qg\qg\src\main\java\com\project\qg\repository\GroceryItemRepository.java
+C:\qg\qg\src\main\java\com\project\qg\repository\OrderItemRepository.java
+C:\qg\qg\src\main\java\com\project\qg\repository\OrderRepository.java
+C:\qg\qg\src\main\java\com\project\qg\service\AdminService.java
+C:\qg\qg\src\main\java\com\project\qg\service\impl\AdminServiceImpl.java
+C:\qg\qg\src\main\java\com\project\qg\service\impl\UserServiceImpl.java
+C:\qg\qg\src\main\java\com\project\qg\service\UserService.java

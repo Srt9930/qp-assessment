@@ -1,0 +1,17 @@
+com\project\qg\config\SecurityConfig.class
+com\project\qg\dto\OrderDTO.class
+com\project\qg\repository\OrderRepository.class
+com\project\qg\entity\OrderItem.class
+com\project\qg\repository\GroceryItemRepository.class
+com\project\qg\controller\UserController.class
+com\project\qg\entity\Order.class
+com\project\qg\service\impl\AdminServiceImpl.class
+com\project\qg\service\UserService.class
+com\project\qg\controller\AdminController.class
+com\project\qg\QgApplication.class
+com\project\qg\service\AdminService.class
+com\project\qg\entity\GroceryItem.class
+com\project\qg\service\impl\UserServiceImpl.class
+com\project\qg\dto\GroceryItemDTO.class
+com\project\qg\dto\OrderDTO$OrderItemDTO.class
+com\project\qg\repository\OrderItemRepository.class
